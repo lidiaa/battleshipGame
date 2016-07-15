@@ -4,7 +4,7 @@ Jogo de batalha naval feito em Javascript e HTML
 
 # Como jogar
 Na página index.html clicar em "Start Game".
-Será desenhado a área do jogo.
+Será desenhada a área do jogo.
 
 O objetivo é encontrar as 4 embarcações disponíveis:
 - 1 porta avião de tamanho 5
