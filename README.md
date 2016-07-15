@@ -2,7 +2,7 @@
 
 Jogo de batalha naval feito em Javascript e HTML
 
-# Como jogar
+# Como Jogar
 Na página index.html clicar em "Start Game".
 Será desenhada a área do jogo.
 
