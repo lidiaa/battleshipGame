@@ -1,4 +1,4 @@
-# battleshipGame
+# Battleship Game
 
 Jogo de batalha naval feito em Javascript e HTML
 
