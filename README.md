@@ -8,9 +8,9 @@ Será desenhada a área do jogo.
 
 O objetivo é encontrar as 4 embarcações disponíveis:
 - 1 porta avião de tamanho 5
-- 1 destroyer de 4
+- 1 destroyer de tamanho 4
 - 2 cruzadores de tamanho 2
 
-# ---
+# ---------------------
 
 © 2016 Lidia B.
